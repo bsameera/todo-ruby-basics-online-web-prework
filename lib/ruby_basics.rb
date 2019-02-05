@@ -11,7 +11,7 @@ def argue(arg)
   val
 end
 
-def greeting
+def greeting(greet, name)
   
 end
 
